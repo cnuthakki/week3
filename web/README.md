@@ -8,7 +8,7 @@ the [Drupal community][Drupal community].
 ## Contributing
 
 Drupal is developed on [Drupal.org][Drupal.org], the home of the international
-Drupal community since 2001!
+Drupal community since 2001! welcome !
 
 [Drupal.org][Drupal.org] hosts Drupal's [GitLab repository][GitLab repository],
 its [issue queue][issue queue], and its [documentation][documentation]. Before
